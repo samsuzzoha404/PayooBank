@@ -1,4 +1,4 @@
-document.getElementById('btn-cashout').addEventListener('click', function(event){
+document.getElementById('btn-cash-out').addEventListener('click', function(event){
     event.preventDefault();
 
     const cashOut = document.getElementById('cash-out-amount').value;
